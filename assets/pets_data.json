@@ -1,0 +1,146 @@
+[
+  {
+    "id": "1",
+    "name": "Meow Cat",
+    "age": 2,
+    "price": 200.00,
+    "about": "Meet Meow, the epitome of feline charm and elegance! With eyes that sparkle with curiosity and a purr that can melt even the toughest hearts, Meow is ready to bring warmth and joy into your home.",
+    "imageUrl": "https://learnwebcode.github.io/json-example/images/cat-2.jpg",
+    "isAdopted": false
+  },
+  {
+    "id": "2",
+    "name": "Buddy Dog",
+    "age": 3,
+    "price": 250.00,
+    "about": "Buddy is not just a dog; he's a bundle of joy waiting to brighten your world! With his infectious enthusiasm and wagging tail, Buddy is the epitome of happiness on four legs. His playful spirit and zest for life make every day an adventure.",
+    "imageUrl": "https://learnwebcode.github.io/json-example/images/dog-1.jpg",
+    "isAdopted": false
+  },
+  {
+    "id": "3",
+    "name": "Cleo Cat",
+    "age": 1,
+    "price": 320.00,
+    "about": "Hey there, meet Cleo – the coolest cat in town! This feline charmer is all about spreading good vibes and stealing hearts. Cleo's got this sleek and stylish coat that turns heads wherever she struts.",
+    "imageUrl": "https://i.ytimg.com/vi/fOd16PT1S7A/maxresdefault.jpg",
+    "isAdopted": false
+  },
+  {
+    "id": "4",
+    "name": "Oreo Dog",
+    "age": 2,
+    "price": 520.00,
+    "about": "A fluffy ball of fur with soulful eyes, our adorable puppy, radiates boundless joy and innocence. Tiny paws patter with an endearing clumsiness, while a wagging tail signals a heart full of unconditional love",
+    "imageUrl": "https://thumbs.dreamstime.com/b/cute-labrador-puppy-24071652.jpg",
+    "isAdopted": false
+  },
+  {
+    "id": "5",
+    "name": "Angelina Cat",
+    "age": 1,
+    "price": 420.00,
+    "about": "Meet the epitome of feline charm – a cute cat with eyes that sparkle like galaxies, a fur coat softer than a cloud, and a playful spirit that brings joy to every room. This delightful companion is a living bundle of purrfection, ready to steal your heart with its adorable antics and irresistible charm",
+    "imageUrl": "https://www.womansworld.com/wp-content/uploads/2023/08/shutterstock_767854171-edited.jpg",
+    "isAdopted": false
+  },
+  {
+    "id": "6",
+    "name": "Champ Dog",
+    "age": 1,
+    "price": 610.00,
+    "about": "A fluffy ball of fur with soulful eyes, our adorable puppy, radiates boundless joy and innocence. Tiny paws patter with an endearing clumsiness, while a wagging tail signals a heart full of unconditional love",
+    "imageUrl": "https://images.squarespace-cdn.com/content/v1/54e7a1a6e4b08db9da801ded/4f509146-8d70-4f84-9e52-197df4279616/82.jpg",
+    "isAdopted": false
+  },
+  {
+    "id": "7",
+    "name": "Max Dog",
+    "age": 2,
+    "price": 440.00,
+    "about": "In a world that sometimes feels ruff, enter Max, a canine charmer with a wagging tail and a soulful gaze that effortlessly turns the mundane into moments of pure, contagious joy.",
+    "imageUrl": "https://i.ytimg.com/vi/cYNlJYQI3Uw/maxresdefault.jpg",
+    "isAdopted": false
+  },
+  {
+    "id": "8",
+    "name": "Kitty Cat",
+    "age": 1,
+    "price": 450.00,
+    "about": "Kitty, a petite ball of fur with eyes that sparkle like emerald gems, gracefully tiptoes through life, leaving a trail of adorable mischief in her wake. Her soft purrs and gentle head nudges create a purr-fectly irresistible charm that turns any moment into a delightful embrace of feline sweetness.",
+    "imageUrl": "https://www.petsworld.in/blog/wp-content/uploads/2014/09/adorable-cat.jpg",
+    "isAdopted": false
+  },
+  {
+    "id": "9",
+    "name": "Angel Cat",
+    "age": 1,
+    "price": 270.00,
+    "about": "Angel, the ethereal feline, graces every room with a halo of serenity and a gentle purr that feels like a celestial melody. With a coat as soft as clouds and eyes that reflect the wisdom of the stars, Angel transforms ordinary spaces into havens of tranquility.",
+    "imageUrl": "https://images.ctfassets.net/sfnkq8lmu5d7/1NaIFGyBn0qwXYlNaCJSEl/ad59ce5eefa3c2322b696778185cc749/2021_0825_Kitten_Health.jpg",
+    "isAdopted": false
+  },
+  {
+    "id": "10",
+    "name": "Luke Dog",
+    "age": 2,
+    "price": 520.00,
+    "about": "Luke, the loyal hound with eyes that shine like polished bronze, embodies the essence of unwavering devotion and boundless energy. With a wagging tail that never tires and a heart full of courage, he stands as a steadfast companion through all of life's adventures.",
+    "imageUrl": "https://cdn.mos.cms.futurecdn.net/npihPVzkREdKnRcjR9Jk99-1200-80.jpg",
+    "isAdopted": false
+  },
+  {
+    "id": "11",
+    "name": "Mark Dog",
+    "age": 2,
+    "price": 700.00,
+    "about": "The German Shepherd, noble guardian with a heart of loyalty, stands tall with an air of regality and a coat of strength. With an intelligence that shines through alert eyes, this breed embodies both grace and power, a steadfast companion ready to protect and adore.",
+    "imageUrl": "https://cdn.britannica.com/79/232779-050-6B0411D7/German-Shepherd-dog-Alsatian.jpg",
+    "isAdopted": false
+  },
+  {
+    "id": "12",
+    "name": "June Cat",
+    "age": 2,
+    "price": 520.00,
+    "about": "June, the feline enchantress, dons a coat of amber hues that mirrors the warmth of a summer sunset. With eyes as luminous as the full moon, she dances through each day, leaving a trail of whimsy and charm.",
+    "imageUrl": "https://www.womansworld.com/wp-content/uploads/2024/08/cute-cats.jpg",
+    "isAdopted": false
+  },
+  {
+    "id": "13",
+    "name": "Flash Dog",
+    "age": 2,
+    "price": 720.00,
+    "about": "Flash, the canine dynamo, streaks through life with a lightning bolt tail and a spirit that ignites joy. His boundless energy and quicksilver antics are a dazzling spectacle, turning ordinary moments into extraordinary memories.",
+    "imageUrl": "https://img.freepik.com/premium-photo/winter-portrait-smiling-siberian-husky-dog-against-background-sunny-snow-covered-forest-close-up_112397-1261.jpg",
+    "isAdopted": false
+  },
+  {
+    "id": "14",
+    "name": "Mike Dog",
+    "age": 1,
+    "price": 480.00,
+    "about": "The Chihuahua, a tiny dynamo with a heart as vast as the open sky, charms with its pint-sized stature and boundless courage. Despite its petite frame, this breed exudes confidence and loyalty, proving that great love can come in small packages.",
+    "imageUrl": "https://dogtime.com/wp-content/uploads/sites/12/2023/11/GettyImages-1329412827-e1701097258260.jpg",
+    "isAdopted": false
+  },
+  {
+    "id": "15",
+    "name": "Luna Dog",
+    "age": 2,
+    "price": 420.00,
+    "about": "Meet Luna, the American Eskimo Dog whose dazzling white coat reflects the purity of her spirited heart. With a graceful demeanor and an expressive face that mirrors intelligence and warmth, Luna is the embodiment of elegance in the canine world.",
+    "imageUrl": "https://www.dailypaws.com/thmb/jBj5iIZEzYsDjCiJd-Ke1fQuKVY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/american-eskimo-dog-grass-146784693-2000-61b75a34427c435686c87aad3496dcd5.jpg",
+    "isAdopted": false
+  },
+  {
+    "id": "16",
+    "name": "Lilly Cat",
+    "age": 1,
+    "price": 220.00,
+    "about": "Lilly, the dainty feline muse, graces each room with her elegant presence, a vision of grace with a coat as soft as a summer breeze. Her emerald eyes gleam with curiosity, inviting you into a world of playful whimsy where every moment is a dance of delight.",
+    "imageUrl": "https://images.saymedia-content.com/.image/t_share/MTk2NzY3MjA5ODc0MjY5ODI2/top-10-cutest-cat-photos-of-all-time.jpg",
+    "isAdopted": false
+  }
+]
